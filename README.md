@@ -1,12 +1,12 @@
 # Apuntes_ED
 
--Apuntes de Entorno de Desarrollo
-  -Alumno: __Mateo Fortea__
-  -Curso: __1º DAW__ (Desarrollo de Aplicaciones Web)
+- Apuntes de Entorno de Desarrollo
+  - Alumno = __Mateo Fortea__
+  - Curso = __1º DAW__ (Desarrollo de Aplicaciones Web)
 
 # Apuntes del módulo de Entornos de Desarrollo
 
-![Entornos de desarrollo]()
+![Entornos de desarrollo](http://jamj2000.github.io/entornosdesarrollo/entornosdesarrollo.png)
 
 
 ## Índice del Módulo
