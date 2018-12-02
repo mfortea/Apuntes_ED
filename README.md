@@ -1,21 +1,21 @@
 # Apuntes_ED
-Apuntes míos y de nadie más
 
-"Entorno de Desarrollo: 1º DAW"
+-Apuntes de Entorno de Desarrollo
+  -Alumno: __Mateo Fortea__
+  -Curso: __1º DAW__ (Desarrollo de Aplicaciones Web)
 
-# Apuntes del módulo Entornos de Desarrollo
+# Apuntes del módulo de Entornos de Desarrollo
 
-1º DAW  
-Écija (Sevilla)  
-
-![Entornos de desarrollo](http://jamj2000.github.io/entornosdesarrollo/entornosdesarrollo.png)
+![Entornos de desarrollo]()
 
 
-## Contenidos del módulo
+## Índice del Módulo
 
-[Unidad 1: Elementos de desarrollo del software](1.ELEMENTOS.md)   
-[Unidad 2: Entornos integrados de desarrollo](2.ENTORNOS.md)  
+__[Unidad 1: Elementos de desarrollo del software](1.ELEMENTOS.md)__   
+__[Unidad 2: Entornos integrados de desarrollo](2.ENTORNOS.md)__  
 [Unidad 3: Diseño y realización de prueba](3.PRUEBAS.md)  
 [Unidad 4: Documentación y optimización](4.DOCUMENTACION.md)  
 [Unidad 5: Elaboración de diagramas de clases](5.DIAGRAMAS_CLASES.md)  
 [Unidad 6: Elaboración de diagramas de comportamiento](6.DIAGRAMAS_COMPORTAMIENTO.md)    
+
+(En negrita, unidades realizadas)
