@@ -19,3 +19,4 @@ __[Unidad 3: Diseño y realización de prueba](3.PRUEBAS.md)__
 [Unidad 6: Elaboración de diagramas de comportamiento](6.DIAGRAMAS_COMPORTAMIENTO.md)    
 
 (En negrita, unidades realizadas)
+(Los apuntes se encuentran al final de cada desarrollo de la Unidad)
